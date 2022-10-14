@@ -1,0 +1,5 @@
+# Binaries
+*.class
+
+# Maven
+target/
